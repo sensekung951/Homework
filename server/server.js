@@ -4,6 +4,7 @@ const users =[
     {name: "prak", sex: "M"},
     {name: "ploy", sex: "w"},
     {name: "bank", sex: "M"},
+    {name: "Thanawat", sex: "M"}, //by Thanawat
 ];
 
 //schema
