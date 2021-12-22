@@ -3,7 +3,7 @@ import {ApolloServer, gql} from 'apollo-server';
 const users =[
     {name: "prak", sex: "M"},
     {name: "thanapot kamkhanheang", sex: "M"},//thanapot
-    {name: "bank", sex: "M"},
+    {name: "Titipong Khannta", sex: "M"},//Titipong
      {name: "Thanawat", sex: "M"}, //by Thanawat
 ];
 
